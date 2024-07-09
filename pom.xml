@@ -11,6 +11,7 @@
     
     // chekc the push and pull operation in the zone
 	<groupId>com.example</groupId>
+	//checking the same fikle confilict
 	<artifactId>demo</artifactId>
 	<version>3.0.0-SNAPSHOT</version>
 	<name>demo</name>
