@@ -153,6 +153,9 @@ if [ -z "$JAVACMD" ] ; then
   fi
 fi
 
+
+// let's check the pull and push operations
+
 if [ ! -x "$JAVACMD" ] ; then
   echo "Error: JAVA_HOME is not defined correctly." >&2
   echo "  We cannot execute $JAVACMD" >&2
